@@ -19,7 +19,7 @@ export function About() {
 
             <div className="relative">
               <img
-                src="/professional-portrait-of-mountain-guide-and-photog.png"
+                src="/profesional1.jpeg"
                 alt="Valentín Medina Rozas"
                 className="w-full h-96 object-cover rounded-lg shadow-lg"
               />

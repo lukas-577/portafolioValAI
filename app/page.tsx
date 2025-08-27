@@ -5,6 +5,7 @@ import { Experience } from "@/components/experience"
 import { Work } from "@/components/work"
 import { Gallery } from "@/components/gallery"
 import { Contact } from "@/components/contact"
+import { Footer } from "@/components/footer"
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Work />
       <Gallery />
       <Contact />
+      <Footer />
     </main>
   )
 }

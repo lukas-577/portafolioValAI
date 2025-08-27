@@ -15,7 +15,7 @@ export function Work() {
             <div className="grid md:grid-cols-3 gap-8 mt-12">
               <div className="text-center">
                 <img
-                  src="/torres-del-paine-iconic-mountain-peaks.png"
+                  src="/torresHorizontal.jpeg"
                   alt="Torres del Paine"
                   className="w-full h-48 object-cover rounded-lg mb-4 shadow-lg"
                 />

@@ -9,43 +9,43 @@ const galleryItems = [
   {
     id: 1,
     title: "Mirador laguna Amarga",
-    image: "/laguna-amarga-viewpoint-torres-del-paine-with-turq.png",
+    image: "/torresHorizontal.jpeg",
     category: "Paisajes",
   },
   {
     id: 2,
     title: "Puma concolor",
-    image: "/patagonian-puma-in-natural-habitat-stalking.png",
+    image: "/puma-vertical.jpeg",
     category: "Vida Salvaje",
   },
   {
     id: 3,
     title: "Guanacos y paisajes",
-    image: "/guanacos-grazing-with-torres-del-paine-mountains-b.png",
+    image: "/guanaco-vertical.jpeg",
     category: "Fauna",
   },
   {
     id: 4,
     title: "Loros cachaña",
-    image: "/austral-parakeets-colorful-birds-in-patagonia.png",
+    image: "/loros.jpeg",
     category: "Aves",
   },
   {
     id: 5,
     title: "Madre e hijo - Puma concolor",
-    image: "/mother-puma-with-cub-in-patagonian-landscape.png",
+    image: "/puma-cachorro.jpeg",
     category: "Vida Salvaje",
   },
   {
     id: 6,
     title: "Cachorro puma concolor con fondo primaveral",
-    image: "/young-puma-cub-with-spring-flowers-in-background.png",
+    image: "/puma-horizontal-flores.jpeg",
     category: "Vida Salvaje",
   },
   {
     id: 7,
     title: "Búhos presentes en la Patagonia",
-    image: "/patagonian-owl-species-in-natural-habitat.png",
+    image: "/buo-torres.jpeg",
     category: "Aves",
   },
   {
@@ -57,19 +57,19 @@ const galleryItems = [
   {
     id: 9,
     title: "Puma concolor en temporada invernal",
-    image: "/puma-in-winter-snow-patagonia-landscape.png",
+    image: "/puma-nieve-horizontal.jpeg",
     category: "Vida Salvaje",
   },
   {
     id: 10,
     title: "Aves migratorias y aves nativas",
-    image: "/migratory-birds-and-native-birds-of-patagonia.png",
+    image: "/condor.jpeg",
     category: "Aves",
   },
   {
     id: 11,
     title: "Tucuquere - Vista a las torres del Paine en otoño",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/buo2.jpeg",
     category: "Aves",
   },
   {

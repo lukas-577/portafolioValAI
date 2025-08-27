@@ -5,7 +5,7 @@ export function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `url('/torres-del-paine-dramatic-landscape-with-mountains.png')`,
+          backgroundImage: `url('/profesional.jpeg')`,
         }}
       >
         <div className="absolute inset-0 bg-black/40" />
